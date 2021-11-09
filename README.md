@@ -12,8 +12,8 @@ The *Get-365UserAccess.ps1* script simply iterates over all Distribution Groups 
 ```
 
 Where:
-  - **<user email address>** is the *UserPrincipalName* (primary O365 email address) of the user you are auditing
-  - **<admin email address>** is an optional email address of the admin account you'd like to connect to the tenant as
+  - <**user email address**> is the *UserPrincipalName* (primary O365 email address) of the user you are auditing
+  - <**admin email address**> is an optional email address of the admin account you'd like to connect to the tenant as
 
 ## Example output
 ```
